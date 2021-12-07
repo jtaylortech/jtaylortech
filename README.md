@@ -2,8 +2,8 @@
 
 ## Full Stack Software Engineer ‣ Machine Learning
 
-- 👨🏽‍💻 Currently, I am a Freelance Web Developer working to transition into Machine Learning
-- Current location: 📍 Atlanta, GA
+👨🏽‍💻 Currently, I am a Freelance Web Developer working to transition into Machine Learning
+📍 Current Location: Atlanta, GA
 
 🌎 Check my [portfolio](http://www.jtaylor.app/)
 
