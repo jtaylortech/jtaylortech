@@ -18,9 +18,9 @@ I frequently working to expand my knowledge regarding various technologies. As I
      <img src="/assets/linkedin-icon-1.svg" alt="Connect with me on Linkedin" width="24" height="24">
     </a>
     <a href="https://twitter.com/JTaylorTech_" style="padding: 24px;">
-    <img src="https://github.com/tbakerx/tbakerx/blob/main/assets/linkedin-green.png" alt="Connect with me on Linkedin" width="24" height="24">
+    <img src="/assets/twitter-6.svg" alt="Follow along on twitter" width="24" height="24">
     </a>
      <a href="https://hashnode.com/@TaylorTech" style="padding: 8px; width: 24px; height: 24px;">
-        <img src="https://github.com/tbakerx/tbakerx/blob/main/assets/linkedin-green.png" alt="Connect with me on Linkedin" width="24" height="24">
+        <img src="/assets/hashnode.svg" alt="Read more about me in my blog" width="24" height="24">
     </a>
 </div>
