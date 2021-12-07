@@ -24,6 +24,6 @@ I'm frequently working to expand my knowledge regarding various technologies. As
         <img src="/assets/hashnode.svg" alt="Read more about me in my blog" width="24" height="24">
     </a>
     <a href="mailto:jarrede20@gmail.com" style="padding: 10px; width: 24px; height: 24px;">
-        <img src="/assets/gmail-icon.svg" alt="Directly email me">
+        <img src="/assets/official-gmail-icon-2020-.svg" alt="Directly email me">
     </a>
 </div>
