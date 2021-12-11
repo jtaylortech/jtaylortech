@@ -21,7 +21,7 @@ I'm frequently working to expand my knowledge regarding various technologies. As
     <a href="https://twitter.com/JTaylorTech_" style="padding: 10px; width: 24px; height: 24px;">
     <img src="/assets/twitter-6.svg" alt="Follow along on twitter" width="24" height="24">
     </a>
-     <a href="https://hashnode.com/@TaylorTech" style="padding: 10px; width: 24px; height: 24px;">
+     <a href="https://taylortech.app" style="padding: 10px; width: 24px; height: 24px;">
         <img src="/assets/hashnode.svg" alt="Read more about me in my blog" width="24" height="24">
     </a>
     <a href="mailto:jarrede20@gmail.com" style="padding: 10px; width: 24px; height: 24px;">
