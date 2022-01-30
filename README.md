@@ -6,7 +6,7 @@
 📍 Current Location: Atlanta, GA
 
 🌎 Check out my [portfolio](http://www.jtaylor.app/) </br>
-💼 View my [resume](https://drive.google.com/file/d/1xd0YZYsTFGnviztI6_vIHPUwdQnuTQzJ/view?usp=sharing)
+💼 View my [resume](https://drive.google.com/file/d/1bvOEDRBb9XFInFjWo2XClnjO3sd12wq_/view)
 
 I'm frequently working to expand my knowledge regarding various technologies. As I transition out of the military in the near future, I plan to begin my career as a machine learning engineer.
 
