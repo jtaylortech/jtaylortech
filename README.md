@@ -1,5 +1,3 @@
-# Welcome to my GitHub profile.
-
 ## Machine Learning Engineer & Data Scientist
 
 👨🏽‍💻 Freelance Web Developer transitioning towards Machine Learning & Data Science </br>
