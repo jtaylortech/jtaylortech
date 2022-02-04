@@ -1,6 +1,6 @@
-# Hello! Welcome to my GitHub profile, I hope you enjoy.
+# Welcome to my GitHub profile.
 
-## Full Stack Software Engineer ‣ Machine Learning
+## Machine Learning Engineer & Data Scientist
 
 👨🏽‍💻 Freelance Web Developer transitioning towards Machine Learning & Data Science </br>
 📍 Current Location: Atlanta, GA | Open to Remote roles
