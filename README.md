@@ -2,15 +2,15 @@
 
 ## Full Stack Software Engineer ‣ Machine Learning
 
-👨🏽‍💻 Currently, I am a Freelance Web Developer working to transition into Machine Learning </br>
-📍 Current Location: Atlanta, GA
+👨🏽‍💻 Freelance Web Developer transitioning towards Machine Learning & Data Science </br>
+📍 Current Location: Atlanta, GA | Open to Remote roles
 
 🌎 Check out my [portfolio](http://www.jtaylor.app/) </br>
-💼 View my [resume](https://drive.google.com/file/d/1bvOEDRBb9XFInFjWo2XClnjO3sd12wq_/view)
+💼 View my [resume](https://drive.google.com/file/d/1bvOEDRBb9XFInFjWo2XClnjO3sd12wq_/view?usp=sharing)
 
-I'm frequently working to expand my knowledge regarding various technologies. As I transition out of the military in the near future, I plan to begin my career as a machine learning engineer.
+Focusing on Machine Learning & Data Science, I am expanding my knowledge in Python and all the related technologies and frameworks. As I transition out of the military in the fall of 2023, I plan to begin my career as a Machine Learning Engineer.
 
-💬 Feel free to reach out to connect or for job inquiring! 
+💬 Feel free to reach out to connect or for job inquiring, I am open to work! 
 
 [![jtaylortech's github stats](https://github-readme-stats.vercel.app/api?username=jtaylortech&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jtaylortech)
 
