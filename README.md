@@ -4,7 +4,7 @@
 📍 Current Location: Atlanta, GA | Open to Remote roles
 
 🌎 Check out my [portfolio](http://www.jtaylor.app/) </br>
-💼 View my [resume](https://drive.google.com/file/d/1bvOEDRBb9XFInFjWo2XClnjO3sd12wq_/view?usp=sharing)
+💼 View my [resume](https://drive.google.com/file/d/1bvOEDRBb9XFInFjWo2XClnjO3sd12wq_/view?usp=sharing) </br>
 🦠 Explore my [Kaggle](https://www.kaggle.com/jarredtaylor) for more ML & DS projects
 
 Focusing on Machine Learning & Data Science, I am expanding my knowledge in Python and all the related technologies and frameworks. As I transition out of the military in the fall of 2023, I plan to begin my career as a Machine Learning Engineer.
