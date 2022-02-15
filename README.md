@@ -11,6 +11,8 @@ Evolving everyday as a Machine Learning Engineer & Data Scientist. Constantly ex
 💬 Feel free to reach out to connect or for job inquiring, I am open to work! 
 
 [![jtaylortech's github stats](https://github-readme-stats.vercel.app/api?username=jtaylortech&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jtaylortech)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtaylortech&layout=compact)](https://github.com/jtaylortech/github-readme-stats)
 
 <div style="padding: 25px 0;">
      <a href="https://www.linkedin.com/in/jarred-taylor-032065177/" style="padding: 10px; width: 24px; height: 24px;">
