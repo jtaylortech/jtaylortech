@@ -1,7 +1,7 @@
 ## Software Engineer: Data Engineering & Cloud Computing
 
 👨🏽‍💻 Freelance Data Engineer & Cloud Architect </br>
-📍 Atlanta, GA | Open to Remote roles | Open to relocating
+📍 Atlanta, GA | Open to Remote roles
 
 🌎 Check out my [portfolio](https://jtaylor.carrd.co/) </br>
 💼 View my [resume](https://drive.google.com/file/d/1bvOEDRBb9XFInFjWo2XClnjO3sd12wq_/view?usp=sharing) </br>
