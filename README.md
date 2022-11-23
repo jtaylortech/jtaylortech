@@ -6,9 +6,9 @@
 <!-- 🌎 Check out my [portfolio](https://jtaylor.carrd.co/) </br>
 💼 View my [resume](https://drive.google.com/file/d/1bvOEDRBb9XFInFjWo2XClnjO3sd12wq_/view?usp=sharing) </br> -->
 
-Evolving everyday as a Software Engineer. Constantly expanding my knowledge in Python, SQL, AWS, GCP and all the related technologies and frameworks. As I transition out of the military in the summer of 2023, I plan to begin my full-time career as a DevOps Engineer.
+Evolving everyday as a Software Engineer. Constantly expanding my knowledge in Python, SQL, AWS, GCP and all the related technologies and frameworks. 
 
-💬 Feel free to reach out to connect or for job inquiring, I am open to work! 
+💬 Feel free to reach out to connect or for job inquiring.
 
 [![jtaylortech's github stats](https://github-readme-stats.vercel.app/api?username=jtaylortech&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jtaylortech&theme=dracula)
 </br>
