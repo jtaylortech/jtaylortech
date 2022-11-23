@@ -1,7 +1,7 @@
 ## Software Engineer: DevOps, Cloud Architecture, & Backend Engineer
 
 👨🏽‍💻 DevOps Engineer & Freelance Cloud Architect + Backend Engineer </br>
-📍 Atlanta, GA | Open to Remote roles
+📍 Atlanta, GA -> Nashville, TN | Open to Remote roles
 
 <!-- 🌎 Check out my [portfolio](https://jtaylor.carrd.co/) </br>
 💼 View my [resume](https://drive.google.com/file/d/1bvOEDRBb9XFInFjWo2XClnjO3sd12wq_/view?usp=sharing) </br> -->
