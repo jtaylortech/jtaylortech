@@ -1,12 +1,9 @@
 ## Software Engineer: DevOps, Cloud Architecture, & Backend Engineer
 
 👨🏽‍💻 DevOps Engineer & Freelance Cloud Architect + Backend Engineer </br>
-📍 Atlanta, GA -> Nashville, TN | Open to Remote roles
+📍 Washington D.C | Open to Remote roles
 
-<!-- 🌎 Check out my [portfolio](https://jtaylor.carrd.co/) </br>
-💼 View my [resume](https://drive.google.com/file/d/1bvOEDRBb9XFInFjWo2XClnjO3sd12wq_/view?usp=sharing) </br> -->
-
-Evolving everyday as a Software Engineer. Constantly expanding my knowledge in Python, SQL, AWS, GCP and all the related technologies and frameworks. 
+Evolving everyday as a Software Engineer. Constantly expanding my knowledge in Python, SQL, AWS, and various other technologies and frameworks.
 
 💬 Feel free to reach out to connect or for job inquiring.
 
