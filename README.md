@@ -1,4 +1,4 @@
-## I am a cloud and backend engineering focused Software Engineer
+## I am a Software Engineer who specializes in cloud computing, cloud architecture and backend engineering.
 
 👨🏽‍💻 Currently: DevOps Engineer </br>
 📍 Currently: Washington D.C | Open to Remote roles
