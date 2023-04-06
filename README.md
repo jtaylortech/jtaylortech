@@ -1,7 +1,7 @@
-## Software Engineer: DevOps, Cloud Architecture, & Backend Engineer
+## I am a cloud and backend engineering focused Software Engineer
 
-👨🏽‍💻 DevOps Engineer & Freelance Cloud Architect </br>
-📍 Washington D.C | Open to Remote roles
+👨🏽‍💻 Currently: DevOps Engineer </br>
+📍 Currently: Washington D.C | Open to Remote roles
 
 Evolving everyday as a Software Engineer. Constantly expanding my knowledge in Python, SQL, AWS, and various other technologies and frameworks.
 
