@@ -1,6 +1,6 @@
 ## Software Engineer specializing in cloud computing and backend engineering.
 
-👨🏽‍💻 Currently: DevOps Engineer </br>
+👨🏽‍💻 Currently: Cloud & DevOps Engineer </br>
 📍 Currently: Washington D.C
 
 💬 Feel free to reach out to connect or for freelance inquiries.
