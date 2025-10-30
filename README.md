@@ -6,6 +6,5 @@ USAF veteran.
 
 👨🏽‍💻 Currently: Cloud Engineer @ AWS </br>
 📍 Washington D.C.  
-📧 jarred@taylortech.app
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtaylortech&layout=compact)](https://github.com/jtaylortech/github-readme-stats&theme=dracula)
