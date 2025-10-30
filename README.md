@@ -1,8 +1,10 @@
 ## Software Engineer specializing in cloud computing and backend engineering.
 
-👨🏽‍💻 Currently: Cloud & Backend Engineer </br>
-📍 Currently: Washington D.C
+Building cloud infrastructure, dev tools, and [TaylorTech](https://taylortech.app) & [Juncture Capital](https://juncture.capital). </br>
+USAF veteran.
 
-💬 Feel free to reach out to connect or for freelance inquiries.
+👨🏽‍💻 Currently: Cloud Engineer @ AWS </br>
+📍 Washington D.C.  
+📧 jarred@taylortech.app
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtaylortech&layout=compact)](https://github.com/jtaylortech/github-readme-stats&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtaylortech&layout=compact&theme=dark)](https://github.com/jtaylortech)
