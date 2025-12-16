@@ -1,4 +1,4 @@
-## Software Engineer specializing in cloud infrastructure and distributed systems.
+## Software Engineer — cloud infrastructure & distributed systems
 
 Building [TaylorTech](https://taylortech.app), a cloud infrastructure studio. Running [Juncture Capital](https://juncture.capital), investing in and acquiring 
 infrastructure businesses.
